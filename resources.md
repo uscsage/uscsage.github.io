@@ -14,7 +14,7 @@ For help dealing with stalking: (x)
 For helping a friend: (x)
 For help with harassment: (x)
 
-##Counseling Services:
+## Counseling Services:
 
 ### On-Campus Help
 
