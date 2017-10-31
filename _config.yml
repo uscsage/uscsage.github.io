@@ -11,7 +11,7 @@ title:            SAGE
 tagline:          'A Jekyll theme'
 description:      'The Student Assembly for Gender Empowerment at the University of Southern California'
 url:              https://aviliane.github.io
-baseurl:         /
+baseurl:         https://aviliane.github.io/
 
 author:
   name:           'SAGE'
