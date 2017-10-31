@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: About Us
 ---
 The Student Assembly for Gender Empowerment, formerly the Women’s Student Assembly (WSA), is one of eight assemblies within the Programming Branch of the Undergraduate Student Government at USC. SAGE was founded by women who sought to create change around issues that women faced. As an organization, SAGE has grown and expanded our focus. Inspired by feminists and powered by students, SAGE works on and off campus to address feminist issues, to engage the community, and to empower those oppressed by the patriarchy.
