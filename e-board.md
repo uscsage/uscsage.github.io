@@ -3,7 +3,7 @@ layout: page
 title: Meet the 2017-2018 E-Board!
 ---
 
-## EXECUTIVE DIRECTOR
+### EXECUTIVE DIRECTOR
 Vanessa Diaz
 
 
