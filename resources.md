@@ -3,7 +3,7 @@ layout: page
 title: Resources
 ---
 
-# Sexual Violence and Gender-Based Harm:
+# Sexual Violence and Gender-Based Harm
 
 ## On-Campus Help
 
@@ -14,7 +14,7 @@ title: Resources
 * For helping a friend
 * For help with harassment
 
-# Counseling Services:
+# Counseling Services
 
 ## On-Campus Help
 
@@ -30,6 +30,6 @@ title: Resources
 * Rape, Abuse & Incest National Network: Call (800) 656-HOPE (4673) for 24-hour hotline or visit their 24-hour online hotline.
 * Peace Over Violence: Call (213) 626-3393 for a 24-hour rape hotline or visit 1015 Wilshire Boulevard, Suite 200, Los Angeles, CA 90017.
 
-# Reproductive Healthcare:
+# Reproductive Healthcare
 
 * Planned Parenthood Los Angeles
