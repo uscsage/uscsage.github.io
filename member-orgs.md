@@ -5,11 +5,11 @@ title: Member Organizations
 
 ### [Women and Youth Supporting Each Other (WYSE)](http://www-scf.usc.edu/~wyse/Home.html)
 
-“Women and Youth Supporting Each Other (WYSE) is a curriculum-based, mentorship program that provides young women with the resources, information, and support necessary to make informed decisions about relationships, sexuality, and their futures in order to create community change.”
+Women and Youth Supporting Each Other (WYSE) is a curriculum-based, mentorship program that provides young women with the resources, information, and support necessary to make informed decisions about relationships, sexuality, and their futures in order to create community change.
 
 ### [Youths Exploring Passion (YEP)](http://yeptrojans.tumblr.com/)
 
-“Youth Exploring Passion is a one-on-one mentoring program for parenting and pregnant teenagers at Thomas Riley High School. Our goal is to help each of these girls find their passion and encourage them to pursue the career or life path they wish for. We do this by providing resources, opportunities, and individual companionship!”
+Youth Exploring Passion is a one-on-one mentoring program for parenting and pregnant teenagers at Thomas Riley High School. Our goal is to help each of these girls find their passion and encourage them to pursue the career or life path they wish for. We do this by providing resources, opportunities, and individual companionship!
 
 ### [Girls in Tech (GIT)](http://www.uscgirlsintech.org/)
 
