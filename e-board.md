@@ -36,7 +36,7 @@ Sarah is a senior from The San Fernando Valley majoring in Narrative Studies. He
 ### GRAPHICS DIRECTOR
 Elisa Apra
 
-Elisa Aprà is a vegan chef extraordinaire and a zine fiend, not to mention our rad director of graphic design! They were born in Torino, Italy, but grew up in Richland, Washington and Oak Ridge, Tennessee. Fun fact: they haven’t worn jeans in 4 years!! That’s commitment. They are currently an art major, but are hoping not to be by the end of the year. Elisa got involved with WSA because a bunch of people told them when they first got to USC that she would enjoy it, and they were 100% right!
+Elisa Aprà is a vegan chef extraordinaire and a zine fiend, not to mention our rad director of graphic design! They were born in Torino, Italy, but grew up in Richland, Washington and Oak Ridge, Tennessee. Fun fact: they haven’t worn jeans in 4 years!! That’s commitment. They are currently an art major, but are hoping not to be by the end of the year. Elisa got involved with WSA because a bunch of people told them when they first got to USC that they would enjoy it, and they were 100% right!
 
 ### ADVOCACY DIRECTOR
 Kortney Casanova
