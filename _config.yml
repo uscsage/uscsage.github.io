@@ -10,12 +10,12 @@ permalink:        pretty
 title:            SAGE
 tagline:          'SAGE'
 description:      'The Student Assembly for Gender Empowerment at the University of Southern California'
-url:              https://aviliane.github.io
-baseurl:         https://aviliane.github.io/
+url:              https://sageusc.github.io
+baseurl:         https://sageusc.github.io/
 
 author:
   name:           'SAGE'
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/sageusc
 
 paginate:         5
 
