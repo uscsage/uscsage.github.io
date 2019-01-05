@@ -7,11 +7,9 @@ sections:
 - type: jekyll-posts
   label: Posts (Main Page)
   create: all
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
-  match: "**/*"
 - type: document
   path: _includes/sidebar.html
   label: Website Sidebar
