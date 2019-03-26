@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Body Love Month
+title: Take Back the Night
 ---
 
 ### Take Back the Night & Clothesline Project
