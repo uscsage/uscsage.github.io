@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Signature Events
+title: Body Love Month
 ---
 
 ### Fem Fest
