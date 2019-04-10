@@ -17,7 +17,7 @@ Celeste Pane (she/her/hers)
 
 ### MEMBERSHIP COORDINATOR
 
-Lauren Okhovat
+Lauren Okhovat (she/her/hers)
 
 ### CO-DIRECTOR OF PUBLIC RELATIONS AND MARKETING
 
@@ -25,15 +25,15 @@ Myra Wu (she/her/hers)
 
 ### CO-DIRECTOR OF PUBLIC RELATIONS AND MARKETING
 
-Sara Okum
+Sara Okum (she/her/hers)
 
 ### ADVOCACY CO-DIRECTOR
 
-Honor Hayball
+Honor Hayball (she/her/hers)
 
 ### ADVOCACY CO-DIRECTOR
 
-Faith Dearborn
+Faith Dearborn (she/her/hers)
 
 ### BODY LOVE MONTH DIRECTOR
 
@@ -41,7 +41,7 @@ Gwen Howard (she/her/hers/they/them/theirs)
 
 ### DIRECTOR OF FINANCE
 
-Ellen Minkin
+Ellen Minkin (she/her/hers)
 
 ### Fem Fest Director:
 
