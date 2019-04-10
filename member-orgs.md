@@ -3,6 +3,10 @@ layout: page
 title: Member Organizations
 
 ---
+### [Society of Women Engineers (SWE)](http://sweusc.com/)
+
+The Society of Women Engineers is a non-profit, global organization founded in 1950. It aims to provide female engineers with a supportive community and a greater voice in the engineering industry. With almost 20,000 members, SWE’s influence has connected women in engineering both old and young, including the future generation of women engineers through its extensive K-12 outreach programs. SWE also strives to establish a community of upmost diversity, producing an organization of varying talents, ideas, and perspectives.
+
 ### [Women and Youth Supporting Each Other (WYSE)](http://www-scf.usc.edu/\~wyse/Home.html)
 
 Women and Youth Supporting Each Other (WYSE) is a curriculum-based, mentorship program that provides young women with the resources, information, and support necessary to make informed decisions about relationships, sexuality, and their futures in order to create community change.
@@ -11,9 +15,9 @@ Women and Youth Supporting Each Other (WYSE) is a curriculum-based, mentorship p
 
 Women of Cinematic Arts (WCA) is an official alumni organization of the USC School of Cinematic Arts, dedicated to supporting women in film, television and digital industries. Since our founding in 2005, we've provided networking, fellowship, and professional development opportunities for the alumni of the University of Southern California's School of Cinematic Arts.
 
-### [Society of Women Engineers (SWE)](http://sweusc.com/)
+### [I AM THAT GIRL (IATG)](https://www.facebook.com/pg/IATGUSC/about/?ref=page_internal)
 
-The Society of Women Engineers is a non-profit, global organization founded in 1950. It aims to provide female engineers with a supportive community and a greater voice in the engineering industry. With almost 20,000 members, SWE’s influence has connected women in engineering both old and young, including the future generation of women engineers through its extensive K-12 outreach programs. SWE also strives to establish a community of upmost diversity, producing an organization of varying talents, ideas, and perspectives.
+A girl’s physical, emotional and mental well-being is rooted in her self-worth. And we are living in an epidemic of self-doubt. I AM THAT GIRL is helping girls to transform self-doubt in to self-love by providing a safe space to be lifted up and have honest conversations about things that matter. Every day, girls are bombarded with messages that attack what she is NOT and we work every day to help her love who SHE IS; to see that in herself and inspire that in others.
 
 ### [Youths Exploring Passion (YEP)](http://yeptrojans.tumblr.com/)
 
