@@ -5,15 +5,15 @@ title: Meet the 2019-2020 E-Board!
 ---
 ### EXECUTIVE CO-DIRECTOR
 
-Vivian Ren
+Vivian Ren (she/her/hers)
 
 ### EXECUTIVE CO-DIRECTOR
 
-Leanna Lugo
+Leanna Lugo (she/her/hers)
 
 ### ASSISTANT DIRECTOR
 
-Gwen Howard
+Celeste Pane (she/her/hers)
 
 ### MEMBERSHIP COORDINATOR
 
@@ -21,7 +21,7 @@ Lauren Okhovat
 
 ### CO-DIRECTOR OF PUBLIC RELATIONS AND MARKETING
 
-Myra Wu
+Myra Wu (she/her/hers)
 
 ### CO-DIRECTOR OF PUBLIC RELATIONS AND MARKETING
 
@@ -37,7 +37,7 @@ Faith Dearborn
 
 ### BODY LOVE MONTH DIRECTOR
 
-Gwen Howard
+Gwen Howard (she/her/hers/they/them/theirs)
 
 ### DIRECTOR OF FINANCE
 
