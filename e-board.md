@@ -13,7 +13,7 @@ Leanna Lugo (she/her/hers)
 
 ### ASSISTANT DIRECTOR
 
-Celeste Pane (she/her/hers
+Celeste Pane (she/her/hers)
 
 ### MEMBERSHIP COORDINATOR
 
